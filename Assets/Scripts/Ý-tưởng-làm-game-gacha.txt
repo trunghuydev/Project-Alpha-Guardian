@@ -1,0 +1,76 @@
++combo của 2 nhân vật
++ kết hợp thuộc tính nguyên tố 
++ nhân vật + quái nên cùng style
+
+Thuộc tính nhân vật: Tấn công, Phòng thủ, Tỉ lệ bạo, Sát thương bạo, Tăng sát thương đầu ra, Giảm sát thương nhận vào, Tốc độ chạy, tốc độ đánh
+
+Thuộc tính kẻ địch: Tấn công, Phòng thủ, Kháng tính Hỏa, Thủy, Lôi, Phong, Đất, Tốc độ chạy, tốc độ đánh,
+
+
+
+Nhân vật có 5 thuộc tính: Hỏa, Thủy, Lôi, Phong, Đất: Kẻ địch bị trạng thái nào thì giảm 10% kháng tính của thuộc tính đó.
+
+
+Hỏa: Thiêu đốt: Gây sát thương mỗi giây trong 5 giây. Kết hợp nguyên tố để tái tạo thời gian đốt và thêm hiệu ứng.
+
+Hỏa + Thủy: Bốc hơi: Giảm 1 giáp mỗi giây trong thời gian đốt.
+
+Hỏa + Lôi: Quá tải: Gây sát thuong phạm vi ngay lập tức và gắn hiệu ứng Thiêu đốt.
+
+Hỏa + Phong: Khuếch tán: Chịu sát thương từ đòn đánh tạo ra lửa gây sát thương phía sau (có giới hạn 5 lần)
+
+Hỏa + Đất: Dung nham: Để lại vùng đất gây sát thương và tích lũy dị thường Hỏa trong 5 giây.
+
+
+
+Thủy: Ẩm ướt: Giảm vĩnh viễn 5 giáp của mục tiêu, và gắn Ẩm ướt trong 5 giây. Kết hợp Ẩm ướt và nguyên tố để them hiệu ứng.
+
+Thủy + Lôi: Điện cảm Gây sát thương phạm vi ngay lập tức và làm choáng mục tiêu trong 2 giây.
+
+Thủy + Phong: Suy yếu: Tăng tốc độ đánh của người tấn công lên kẻ địch đó thêm 20%, trong 2 giây.
+
+Thủy + Đất: Bùn lầy: Tạo ra một vùng giảm tốc độ di chuyển của kẻ địch trong phạm vi. Hiệu lực 5 giây
+
+
+
+Lôi: Sốc điện: Làm choáng trong 0.5 giây và gắn Nhiễm điện trong 5 giây. Kết hợp Nhiễm điện và Nguyen tố để them hiệu ứng.
+
+Lôi + Phong: Lôi dẫn: Tạo ra tia điện lan sang những kẻ địch phía sau gây sát thương và làm choáng tối đa 2 giây, giảm dần theo khoảng cách.
+
+Lôi + Đất: Thu lôi: Tạo ra vùng đất thu hút sấm sét gây sát thương và làm choáng liên tục 0.25 giây mỗi giây trong 5 giây.
+
+
+
+Đất: Rung chấn: Làm chậm kẻ địch 30% trong 5 giây và gắn Chấn động lên kẻ địch. Kết hợp Chấn động và Nguyen tố để them hiệu ứng.
+
+Đất + Phong: Cuồng phong: Đẩy lùi kẻ địch trong phạm vi và gây sát thương liên tục.
+
+
+Phong: Phong kích Khiến kẻ địch bị Bào mòn trong 5 giây, chịu them sát thương cho tối đa 5 đòn đánh kế tiếp. Kết hợp Bào mòn và Nguyen tố đê them hiệu ứng.
+
+
+
+Combo Cơm chó:
+
+Rakan: Hỗ trợ
+
+Có khả năng hồi máu và tạo lá chắn cho đồng minh.
+
+Xayah: Chủ lực
+
+Có khả năng bắn xuyên mục tiêu
+
+Khi 2 tuyệt kỹ đầy kích hoạt sẽ khiến 1 animation rất đẹp, gây sát thương và hồi máu cho mục tiêu toàn hang.
+
+
+
+
+Gameplay:
+
+- Triệu hồi đồng minh tấn công căn cứ địch. Thắng khi phá thành công, Thua khi kẻ địch phá hủy căn cứ bản than.
+
+- Sử dung điểm triệu hồi để triệu hồi đồng minh. Đồng minh bị tiêu diet phải chờ hồi sinh hoặc dung điểm triệu hồi để hồi sinh trước khi có thể triệu hồi lại.
+
+- VẪn dung chiến kỹ, Mỗi nhân vật có 1 kỹ năng Chiến kỹ. Sử dung điểm chiến kỹ để thực hiện kĩ năng.
+
+- Có tuyệt kĩ

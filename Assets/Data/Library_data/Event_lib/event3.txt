@@ -1,0 +1,6 @@
+Chuyến hành trình Thánh địa
+Tỉ lệ xuất hiện: 2
+Xác suất thành công hồ ly:
+50
+Xác suất thành công kỳ lân:
+20

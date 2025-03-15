@@ -1,0 +1,4 @@
+Toàn đội hồi lại <color=orange>{10 + 0.2 * Độ hoàn chỉnh}</color> máu  mỗi giây.
+
+
+<color=lightblue>Thưởng hoàn hảo:</color> <color=grey> Nhận 12% Kháng toàn thuộc tính.</color>

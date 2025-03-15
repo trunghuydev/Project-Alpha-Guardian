@@ -1,0 +1,4 @@
+Trong khu vực cửa hàng, của hàng sẽ giảm giá <color=orange>{0.25 * Độ hoàn chỉnh}</color>.
+
+
+<color=lightblue>Thưởng hoàn hảo:</color> <color=grey>Khi di chuyển đến một khu vực mới, nhận Chip điện tử bằng 12% lượng hiện tại.</color>

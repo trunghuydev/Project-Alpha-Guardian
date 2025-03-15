@@ -1,0 +1,26 @@
+private void ApplyAreaDamage()
+    {
+        float areaDamageMultiplier = 0.6f;
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(transform.position, damageRadius, DetectEnemy);
+
+        foreach (Collider2D hit in hitEnemies)
+        {
+            MeleeMinionStats minion = hit.GetComponent<MeleeMinionStats>();
+            if (minion != null && minion.currentHP > 0)
+            {
+                // Calculate and apply damage
+                float atk = xayahStats.atk;
+                float damage = atk * areaDamageMultiplier;
+                minion.UpdateHP(-damage);
+                Debug.Log($"Dealt {damage} damage to {minion.name}");
+            }
+        }
+    }
+    */
+    //private void OnDrawGizmosSelected()
+    //{
+    // Draw the damage radius
+    //Gizmos.color = Color.red; 
+    //Gizmos.DrawWireSphere(transform.position, damageRadius); 
+    //}
+

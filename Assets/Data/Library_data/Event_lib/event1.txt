@@ -1,0 +1,6 @@
+Ngân hàng sa mạc
+Tỉ lệ xuất hiện: 2
+Số điểm hiện tại
+1
+<color=orange>Chủ ngân hàng:</color>
+Chào mừng đến với Ngân hàng sa mạc, điểm của bạn hiện tại là <color=yellow>{point}</color>, bạn muốn:

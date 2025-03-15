@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Level Select.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Adventure.unity
+    guid: 2b0a7e597061e3448b30638e7838cea0
+  - enabled: 1
+    path: Assets/Scenes/Adventure_Abnormal.unity
+    guid: 56b4399cf8909d54d901f4f5df86334a
+  - enabled: 1
+    path: Assets/Scenes/Adventure_Event.unity
+    guid: 2640cead5a16296429ae45c2923c2f41
+  - enabled: 1
+    path: Assets/Scenes/Adventure_Forge.unity
+    guid: 11f39e876b5dcfc448b5e32bd1c54701
+  - enabled: 1
+    path: Assets/Scenes/Adventure_Game.unity
+    guid: dc63ce89b650c354b8f6f95e80fccf8c
+  - enabled: 1
+    path: Assets/Scenes/Adventure_Incognito.unity
+    guid: c32a2127d8c0be14899a6de2ff108cfc
+  - enabled: 1
+    path: Assets/Scenes/Adventure_Reward.unity
+    guid: 7256a42079baea44e97ea15f249dda0e
+  - enabled: 1
+    path: Assets/Scenes/Adventure_Shop.unity
+    guid: d9a29919c6f13ca4eab85d4106aca388
+  - enabled: 1
+    path: Assets/Scenes/EndAdventure.unity
+    guid: dd081cb702989ef458a390e1864ce854
+  - enabled: 1
+    path: Assets/Scenes/Level Select.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Team Select.unity
+    guid: a3173f436cc78a6499643787743260a3
+  - enabled: 1
+    path: Assets/Scenes/Adventure_Combat.unity
+    guid: f9f0c38e12ad292429056536f88c5943
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 26163dbb64ec86d428468e6711c5c7f7
+  - enabled: 1
+    path: Assets/Scenes/Inventory.unity
+    guid: 298f8a8ead3358e4ea04f71240483a63
+  - enabled: 1
+    path: Assets/Scenes/HeroInfo.unity
+    guid: b5f13ea1f86822949864cea0f7d4efd4
+  m_configObjects: {}

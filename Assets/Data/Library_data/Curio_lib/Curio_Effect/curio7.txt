@@ -1,0 +1,4 @@
+Tăng <color=orange>{0.2 * Độ hoàn chỉnh}</color> phòng thủ cho toàn đội
+
+
+<color=lightblue>Thưởng hoàn hảo:</color> <color=grey> Nhận 8% kháng toàn bộ thuộc tính cho toàn đội.</color>

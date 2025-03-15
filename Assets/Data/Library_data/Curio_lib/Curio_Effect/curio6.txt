@@ -1,0 +1,5 @@
+Tăng <color=orange>{3000 + 20 * Độ hoàn chỉnh}</color> Máu tối đa của thành luỹ.
+Hồi <color=orange>{3000 + 20 * Độ hoàn chỉnh}</color> Máu khi vào chiến dấu.
+
+
+<color=lightblue>Thưởng hoàn hảo:</color> <color=grey> Toàn đội nhận thêm 1000 Máu tối đa.</color>

@@ -1,0 +1,4 @@
+Giảm <color=orange>{100 - 1 * Độ hoàn chỉnh}</color> sát thương gây ra toàn đội.
+
+
+<color=lightblue>Thưởng hoàn hảo:</color> <color=grey> Nhận 30% Xuyên kháng toàn bộ thuộc tính.</color>

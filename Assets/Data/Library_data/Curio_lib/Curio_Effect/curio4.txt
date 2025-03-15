@@ -1,0 +1,4 @@
+Tăng tốc độ đánh toàn đội thêm <color=orange>{0.002 * Độ hoàn chỉnh}</color>.
+
+
+<color=lightblue>Thưởng hoàn hảo:</color> <color=grey> Hiệu suất hồi năng lượng tăng 30%.</color>

@@ -1,0 +1,4 @@
+Với mỗi một vật thể lạ bạn có, tăng <color=orange>{0.01 * Độ hoàn chỉnh}</color> sát thương. Tăng gấp 5 lần nếu đó là Vật thể lạ hoàn hảo.
+
+
+<color=lightblue>Thưởng hoàn hảo:</color> <color=grey> Khi cải tạo Vật thể lạ, độ hoàn chỉnh vật thể lạ tăng ít nhất 5%.</color>

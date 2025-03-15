@@ -1,0 +1,4 @@
+Tăng <color=orange>{0.3 * Độ hoàn chỉnh}</color> tỉ lệ bạo kích toàn đội.
+
+
+<color=lightblue>Thưởng hoàn hảo:</color> <color=grey> Nhận thêm 15% tỉ lệ bạo kích. Nếu có <u>Lửa</u> và <u>Mồi câu</u> đều đạt trạng thái Hoàn hảo, có tỉ lệ xuất hiện <u>Con cá trong truyền thuyết</u></color>
